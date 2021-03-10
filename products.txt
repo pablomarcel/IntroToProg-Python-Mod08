@@ -1,0 +1,4 @@
+guitar,18
+table,22.0
+ipad,99.0
+iphone,33.0
